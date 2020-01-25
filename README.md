@@ -1,4 +1,3 @@
-# Robosys2019_kadai2_ros
 # ロボットシステム学 課題2
 
 ## 概要
@@ -14,5 +13,6 @@ twice.pyはcount.pyの文章にcredit,garvageどちらかを選んで付け足�
 ## デモ動画URL
 https://www.youtube.com/watch?v=HD_IXGFS5AY&feature=youtu.be
 
-## 参考
+## 参考URL
+こちらを参考に作成しました。
 https://ryuichiueda.github.io/robosys2019/lesson13.html#/1
