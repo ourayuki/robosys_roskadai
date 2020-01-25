@@ -1,1 +1,18 @@
-# robosys_roskadai
+# Robosys2019_kadai2_ros
+# ロボットシステム学 課題2
+
+## 概要
+rosを用いてランダムに文章が生成される動作を行いました。
+count.pyはyou get + robosys,all,unkのうちどれかが選ばれ出力されます。
+twice.pyはcount.pyの文章にcredit,garvageどちらかを選んで付け足し表示します。
+
+## 起動方法
+    $ roscore  
+    $ rosrun [pkg_name] count.py  
+    $ rosrun [pkg_name] twice.py
+      
+## デモ動画URL
+https://www.youtube.com/watch?v=HD_IXGFS5AY&feature=youtu.be
+
+## 参考
+https://ryuichiueda.github.io/robosys2019/lesson13.html#/1
