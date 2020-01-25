@@ -4,7 +4,7 @@
 rosを用いてランダムに文章が生成される動作を行いました。  
 count.pyはyou get + robosys,all,unkのうちどれかが選ばれ出力されます。  
 twice.pyはcount.pyの文章にcredit,garbageどちらかを選んで付け足し表示します。  
-例　You get robosys credit  , You get unk garbage 
+例　You get robosys credit  , You get unk garbage 　　
 creditが出力される確率は低めです。
 
 ## 起動方法
